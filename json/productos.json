@@ -1,0 +1,76 @@
+[{
+        "id": 1,
+        "tipo": "Helado Cucurucho",
+        "nombre": "Cucurucho Chocolate",
+        "precio": 25,
+        "foto": "../media/products/chocolate.jpg"
+    }, {
+        "id": 2,
+        "tipo": "Helado Cucurucho",
+        "nombre": "Cucurucho Frutilla",
+        "precio": 25,
+        "foto": "../media/products/frutilla.jpg"
+    }, {
+        "id": 3,
+        "tipo": "Helado Cucurucho",
+        "nombre": "Cucurucho Melon",
+        "precio": 25,
+        "foto": "../media/products/Helado Melon.jpg"
+    }, {
+        "id": 4,
+        "tipo": "Helado Cucurucho",
+        "nombre": "Cucurucho Menta",
+        "precio": 25,
+        "foto": "../media/products/Helado Menta.jpg"
+    }, {
+        "id": 5,
+        "tipo": "Helado Cucurucho",
+        "nombre": "Helado Selva Verde",
+        "precio": 25,
+        "foto": "../media/products/Helado Selva Verde.jpg"
+    }, {
+        "id": 6,
+        "tipo": "Helado Cucurucho",
+        "nombre": "Helado Dulce de Leche",
+        "precio": 25,
+        "foto": "../media/products/Helado Dulce de Leche.jpg"
+    }, {
+        "id": 7,
+        "tipo": "Helado Cucurucho",
+        "nombre": "Cono limon",
+        "precio": 30,
+        "foto": "../media/products/Cono limon.jpg"
+    }, {
+        "id": 8,
+        "tipo": "Helado Cucurucho",
+        "nombre": "Cono Chocolate con Crema",
+        "precio": 25,
+        "foto": "../media/products/Cono Chocolate con Crema.jpg"
+    },
+    {
+        "id": 9,
+        "tipo": "Helado Cucurucho",
+        "nombre": "Cono Dulce de leche y Vainilla",
+        "precio": 30,
+        "foto": "../media/products/Cono Dulce de leche y Vainilla.jpg"
+    },
+    {
+        "id": 10,
+        "tipo": "Helado Cucurucho",
+        "nombre": "Cono Fresa",
+        "precio": 30,
+        "foto": "../media/products/Cono Fresa.jpg"
+    }, {
+        "id": 11,
+        "tipo": "Helado Cucurucho",
+        "nombre": "Helado Crema y Chocolate",
+        "precio": 25,
+        "foto": "../media/products/Helado Crema y Chocolate.jpg"
+    }, {
+        "id": 12,
+        "tipo": "Helado Cucurucho",
+        "nombre": "Cono Turron",
+        "precio": 30,
+        "foto": "../media/products/Cono Turron.jpg"
+    }
+]
